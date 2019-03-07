@@ -231,6 +231,8 @@
 	</dict>
 	<key>GUI</key>
 	<dict>
+		<key>ScreenResolution</key>
+			<string>1024x720</string>
 		<key>Custom</key>
 		<dict>
 			<key>Entries</key>
@@ -267,7 +269,7 @@
 		<key>Mouse</key>
 		<dict>
 			<key>Enabled</key>
-			<true/>
+			<false/>
 		</dict>
 		<key>Scan</key>
 		<dict>
@@ -280,8 +282,7 @@
 			<key>Tool</key>
 			<true/>
 		</dict>
-		<key>ScreenResolution</key>
-		<string>1366x768</string>
+		
 		<key>ShowOptimus</key>
 		<false/>
 		<key>Theme</key>
